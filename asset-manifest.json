@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/uni-stuff/static/js/main.c6dab014.chunk.js",
+    "main.js.map": "/uni-stuff/static/js/main.c6dab014.chunk.js.map",
+    "runtime-main.js": "/uni-stuff/static/js/runtime-main.a9be17ee.js",
+    "runtime-main.js.map": "/uni-stuff/static/js/runtime-main.a9be17ee.js.map",
+    "static/js/2.6955e098.chunk.js": "/uni-stuff/static/js/2.6955e098.chunk.js",
+    "static/js/2.6955e098.chunk.js.map": "/uni-stuff/static/js/2.6955e098.chunk.js.map",
+    "static/js/3.b981c81d.chunk.js": "/uni-stuff/static/js/3.b981c81d.chunk.js",
+    "static/js/3.b981c81d.chunk.js.map": "/uni-stuff/static/js/3.b981c81d.chunk.js.map",
+    "index.html": "/uni-stuff/index.html",
+    "static/js/2.6955e098.chunk.js.LICENSE.txt": "/uni-stuff/static/js/2.6955e098.chunk.js.LICENSE.txt",
+    "static/media/andrey.adaabaa7.jpg": "/uni-stuff/static/media/andrey.adaabaa7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9be17ee.js",
+    "static/js/2.6955e098.chunk.js",
+    "static/js/main.c6dab014.chunk.js"
+  ]
+}
